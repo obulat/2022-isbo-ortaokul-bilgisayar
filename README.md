@@ -1,6 +1,3 @@
-# 2022-isbo-ortaokul-bilgisayar
-2022 İstanbul Bilim Olimpiyatları Ortaokul Bilgisayar Soruları
-
 # Bilgisayar
 
 1 D
@@ -163,6 +160,11 @@ int main() {
 }
 ```
 Yukarıda verilen program çıktı olarak ne üretir?
+A IBO
+B ISBO
+C iStAnBuL
+D isbiol
+E İsbıo
 
 9 A
 
@@ -285,11 +287,11 @@ C 252
 D 255
 E Hiçbiri
 
-9
-Bir $\mathbb{O}$ öperatörü, sıfırdan farklı $x,y$ sayıları verildğiğnde bu sayıların kareleri toplamının bu sayıların çarpımına bölüyor ve sonuç $\mathbb{O}_{x,y}$ ile gösteriliyor. Başka bir  $\mathbb{O}'$ operatörü sıfırdan faklı $x, y$ sayıları verildiğinde bunların toplamlarının karesini alıyor ve sonuç $\mathbb{O}'_{x,y}$ ile gösteriliyor.
-Buna göre, $\frac{mathbb{O}'_{x,x}}{mathbb{O}_{y,y}+2}$ ifadesi 72,242,625,2022,20000 sayılarından kaç tanesine eşit olamaz?
+9 B
+Bir $𝕆$ öperatörü, sıfırdan farklı $x,y$ sayıları verildğiğnde bu sayıların kareleri toplamının bu sayıların çarpımına bölüyor ve sonuç $𝕆_{x,y}$ ile gösteriliyor. Başka bir  $𝕆'$ operatörü sıfırdan faklı $x, y$ sayıları verildiğinde bunların toplamlarının karesini alıyor ve sonuç $𝕆'_{x,y}$ ile gösteriliyor.
+Buna göre, $\frac{𝕆'_{x,x}}{𝕆_{y,y}+2}$ ifadesi 72,242,625,2022,20000 sayılarından kaç tanesine eşit olamaz?
 
-10
+10 A
 Bir satranç tahtasından ne ortak kenarı ne ortak köşesi olan iki kare kaç farklı şekilde seçilebir?
 
 A 1806
@@ -297,3 +299,102 @@ B 1828
 C 1836
 D 1874
 E 1898
+
+11 B
+Ahmet sayıları göstermek için on rakam yerine beş tane rakam kullanmaya karar veriyor. Kurduğu sayı sisteminde 1'in ardıiığı 2, 2'nin ardışığı 3, 3'ün ardışığı 4, 4'ün ardışığı 10 ile gösteriliyor.
+
+Kullandığımız on rakamlı sayı sisteminde 126 ile gösterilen çokluk, Ahmet'in kurduğu sistemde aşağıdakilerden hangisiyle gösterilir?
+A 404
+B 1001
+C 1444
+E Hiçbiri
+
+12 E
+Ahmet sayıları göstermek için on rakam yerine beş tane rakam kullanmaya karar veriyor. Kurduğu sayı sisteminde 1'in ardıiığı 2, 2'nin ardışığı 3, 3'ün ardışığı 4, 4'ün ardışığı 10 ile gösteriliyor.
+Ahmet'in kurduğu sistemde 12421 ile gösterilen sayı, kullandığımız on rakamlı sayı sisteminde aşağıdakilerden hangisiyle gösterilir?
+A 689
+B 698
+C 869
+D 896
+E 986
+
+13 A
+Düz bir sırada yan yana ve aynı yöne bakan 7 sandalyeye oturan, yaşları birbirinden farklı Aylin, Burçin, Ceylin, Dilan, Elvan, Ferhan ve Gülcan isimli 7 kız kardeşin sol taraflarında sırasıyla 2, 1, 2, $x$, 4, 5, 1 tane ablası; sağ taraflarında sırasıyla 0, 2, 3, $y$, 0, 1, $z$ tane ablası oturuyor.
+
+$x + y + z$ kaçtır?
+A 0
+B 1
+C 2
+D 3
+E 4
+
+14 C
+Düz bir sırada yan yana ve aynı yöne bakan 7 sandalyeye oturan, yaşları birbirinden farklı Aylin, Burçin, Ceylin, Dilan, Elvan, Ferhan ve Gülcan isimli 7 kız kardeşin sol taraflarında sırasıyla 2, 1, 2, $x$, 4, 5, 1 tane ablası; sağ taraflarında sırasıyla 0, 2, 3, $y$, 0, 1, $z$ tane ablası oturuyor.
+Burçin ile Ferhan'ın arasında kaç kişi oturuyor?
+A 1
+B 2
+C 3
+D 4
+E 5
+
+15 D
+Düz bir sırada yan yana ve aynı yöne bakan 7 sandalyeye oturan, yaşları birbirinden farklı Aylin, Burçin, Ceylin, Dilan, Elvan, Ferhan ve Gülcan isimli 7 kız kardeşin sol taraflarında sırasıyla 2, 1, 2, $x$, 4, 5, 1 tane ablası; sağ taraflarında sırasıyla 0, 2, 3, $y$, 0, 1, $z$ tane ablası oturuyor.
+Ortada kim oturuyor?
+A Aylin
+B Ceylin
+C Ferhan
+D Gülcan
+E Hiçbiri
+
+16 E
+Düz bir sırada yan yana ve aynı yöne bakan 7 sandalyeye oturan, yaşları birbirinden farklı Aylin, Burçin, Ceylin, Dilan, Elvan, Ferhan ve Gülcan isimli 7 kız kardeşin sol taraflarında sırasıyla 2, 1, 2, $x$, 4, 5, 1 tane ablası; sağ taraflarında sırasıyla 0, 2, 3, $y$, 0, 1, $z$ tane ablası oturuyor.
+En büyük ikinci kardeş kimdir?
+A Aylin
+B Burçin
+C Elvan
+D Ferhan
+E Gülcan
+
+17 B
+Aşağıdaki şemada bir grup, birbirini tanıyan üyeler arasında bağlantılarla verilmiştir. Şema hazırlanırken üyeleri gösteren köşelere, üyelerin yaşları yazılacağına arkadaşlarının yaşların toplamı yazılmıştır.
+![[s_17.png]]
+Grupta kaç kişinin yaşı kesin olarak bellidir?
+A 4
+B 5
+C 6
+D 7
+E Hiçbiri
+
+18 A
+Aşağıdaki şemada bir grup, birbirini tanıyan üyeler arasında bağlantılarla verilmiştir. Şema hazırlanırken üyeleri gösteren köşelere, üyelerin yaşları yazılacağına arkadaşlarının yaşların toplamı yazılmıştır.
+![[s_17.png]]
+Gruptakilerin yaşları toplamı en az kaçtır?
+A 61
+B 62
+C 63
+D 64
+E 65
+
+19 D
+Ülkede eğri burun hastalığını kontrol altına alabilmek için karantina tedbirleri uygulanmaktadır. Hastalığın ilk rastlandığı bölgeye A kodu atanıyor. Bu Bölgenin karantina alarm seviyesi 4 olarak belirleniyor. Karantina tedbirleri her şehirde, komşularından en yüksek alarm seviyesinin bir düşüğü olarak uygulanıyor. Örnekte Sülistandaki şehirlerin alarm seviyeleri toplamı 12'dir.
+
+![[s_19.png]]
+
+Aşağıdaki adalardan hangisinin karantina seviyesi toplamı en fazladır?
+A ![[s_19_a.png]]
+B ![[s_19_b.png]]
+C ![[s_19_c.png]]
+D ![[s_19_d.png]]
+E ![[s_19_e.png]]
+
+20 A
+Ülkede eğri burun hastalığını kontrol altına alabilmek için karantina tedbirleri uygulanmaktadır. Hastalığın ilk rastlandığı bölgeye A kodu atanıyor. Bu Bölgenin karantina alarm seviyesi 4 olarak belirleniyor. Karantina tedbirleri her şehirde, komşularından en yüksek alarm seviyesinin bir düşüğü olarak uygulanıyor. Örnekte Sülistandaki şehirlerin alarm seviyeleri toplamı 12'dir.
+
+![[s_20_1.png]]
+
+Aşağıdaki ülkenin bölgelerinin karantina seviyeleri toplamı nedir?
+A 27
+B 28
+C 29
+D 30
+E Hiçbiri
