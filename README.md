@@ -367,7 +367,7 @@ E Hiçbiri
 
 18 A
 Aşağıdaki şemada bir grup, birbirini tanıyan üyeler arasında bağlantılarla verilmiştir. Şema hazırlanırken üyeleri gösteren köşelere, üyelerin yaşları yazılacağına arkadaşlarının yaşların toplamı yazılmıştır.
-![[s_17.png]]
+![s_17.png]
 Gruptakilerin yaşları toplamı en az kaçtır?
 A 61
 B 62
